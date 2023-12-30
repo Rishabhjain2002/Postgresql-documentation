@@ -1,7 +1,11 @@
 # Postgresql-documentation
 
 1. SELECT current_user;
+
+2. 
 SELECT current_database();
+
+3.
 SELECT current_schema(); //public
 
 
